@@ -17,7 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yucen Gao is currently an associate professor in Software College of Northeastern University, China. He received the PhD degree in computer science from the Shanghai Jiao Tong University, China, in 2025. His research interests include data engineering and network optimization. He has published more than 20 papers in high-ranked international conferences and journals including SIGKDD, ICDE, SIGIR, TMC, etc.
+Yucen Gao is currently an associate professor in Software College of Northeastern University, China. He received the PhD degree in computer science from the Shanghai Jiao Tong University, China, in 2025. He has published more than 20 papers in high-ranked international conferences and journals including SIGKDD, ICDE, SIGIR, TMC, etc.
+
+# 📖 Educations
+- *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
+- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+
+
+# 🎓︎ Research Interests
+Data Engineering, Network Optimization
 
 
 <!-- # 🔥 News
@@ -65,14 +73,31 @@ Yucen Gao is currently an associate professor in Software College of Northeaster
 23. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, Yucen Gao, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
 24. Sijia Li, Kun Song, Boran Yang, Yucen Gao, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
+# 🧰 Projects
+- National Key R&D Program, Research on Quality Control and Traceability Technology of Manufacturing Process Based on Online Monitoring Data, 2024.12-2027.11, Key Member
+- National Key R&D Program, Theory and Methods of Manufacturing Big Data Value, 2020.11-2023.10, Key Member
+- NSFC Joint Key Project, Research on Key Technologies of Collaborative Perception and Data Management for Intelligent Workshop in Aircraft Manufacturing, 2024.01-2027.12, Key Member
+- NSFC General Project, Research on Key Algorithms for Collaborative Optimization in Mobile Crowd Sensing, 2023.01-2026.12, Key Member
+- CCF-DiDi Gaia Scholar Research Fund, Research on Multi-Waypoint Path Planning Problem, 2022.08-2023.07, Student Leader
+- CCF-DiDi Gaia Scholar Research Fund, Research on Supply and Demand Forecasting in Ride-Hailing Business Scenarios, 2023.08-2024.07, Student Leader
+- CCF-DiDi Gaia Scholar Research Fund, Exploration of Localization Optimization in Complex Occlusion Scenarios Based on Machine Learning Algorithms, 2024.08-Present, Student Leader
+- COSCO Shipping Container Slot Intelligent Pricing Project, 2020.07-2023.06, Student Leader
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🛎 Academic Services
+- Executive Committee Member, CCF Technical Committee on Distributed Computing and Systems
+- Reviewer for ICDE, NeurIPS, WWW, ICML, etc.
 
-# 📖 Educations
-- *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
-- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+# 🎖 Honors and Awards
+- *2024*, National Scholarship, China
+- *2020*, Outstanding Graduate, Shanghai
+- *2025*, Outstanding Doctoral Graduate, Shanghai Jiao Tong University
+- *2020*, Zhiyuan Outstanding Student Scholarship, Shanghai Jiao Tong University
+- *2020*, Zhiyuan Honorary Bachelor's Degree, Shanghai Jiao Tong University
+- *2023*, Huatai Securities Technology Scholarship, Shanghai Jiao Tong University
+- *2019&2020&2021*, Rongchang Technology Innovation Scholarship, Shanghai Jiao Tong University
+- *2017&2018&2019*, Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University
+- *2020*, First Prize in Mathematical Contest in Modeling (MCM), American Mathematical Contest in Modeling (Top 7%)
+- *2018*, First Prize in National Mathematical Contest in Modeling (Shanghai Region, Undergraduate Group) (Top 10%)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
