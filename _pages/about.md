@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yucen Gao is currently an associate professor in Software College of Northeastern University, China. He received the PhD degree in computer science from the Shanghai Jiao Tong University, China, in 2025. He  His research interests include data engineering and network optimization. He has published more than 20 papers in high-ranked international conferences and journals including SIGKDD, ICDE, SIGIR, TMC, etc.
+Yucen Gao is currently an associate professor in Software College of Northeastern University, China. He received the PhD degree in computer science from the Shanghai Jiao Tong University, China, in 2025. His research interests include data engineering and network optimization. He has published more than 20 papers in high-ranked international conferences and journals including SIGKDD, ICDE, SIGIR, TMC, etc.
 
 
 <!-- # 🔥 News
