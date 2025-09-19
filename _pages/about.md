@@ -78,13 +78,13 @@ Data Engineering, Network Optimization
 - National Key R&D Program, Theory and Methods of Manufacturing Big Data Value, 2020.11-2023.10, Key Member
 - NSFC Joint Key Project, Research on Key Technologies of Collaborative Perception and Data Management for Intelligent Workshop in Aircraft Manufacturing, 2024.01-2027.12, Key Member
 - NSFC General Project, Research on Key Algorithms for Collaborative Optimization in Mobile Crowd Sensing, 2023.01-2026.12, Key Member
-- CCF-DiDi Gaia Scholar Research Fund, Research on Multi-Waypoint Path Planning Problem, 2022.08-2023.07, Student Leader
+- CCF-DiDi Gaia Scholar Research Fund, Exploration of Localization Optimization in Complex Occlusion Scenarios Based on Machine Learning Algorithms, 2024.08-2025.07, Student Leader
 - CCF-DiDi Gaia Scholar Research Fund, Research on Supply and Demand Forecasting in Ride-Hailing Business Scenarios, 2023.08-2024.07, Student Leader
-- CCF-DiDi Gaia Scholar Research Fund, Exploration of Localization Optimization in Complex Occlusion Scenarios Based on Machine Learning Algorithms, 2024.08-Present, Student Leader
+- CCF-DiDi Gaia Scholar Research Fund, Research on Multi-Waypoint Path Planning Problem, 2022.08-2023.07, Student Leader
 - COSCO Shipping Container Slot Intelligent Pricing Project, 2020.07-2023.06, Student Leader
 
 # 🛎 Academic Services
-- Executive Committee Member, CCF Technical Committee on Distributed Computing and Systems
+- Executive Committee Member, Technical Committee on Distributed Computing and Systems of CCF
 - Reviewer for ICDE, NeurIPS, WWW, ICML, etc.
 
 # 🎖 Honors and Awards
