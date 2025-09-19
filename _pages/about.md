@@ -24,7 +24,7 @@ Yucen Gao is currently an associate professor in Software College of Northeaster
 - *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 
 
-# 🎓︎ Research Interests
+# 🎓︎ Interests
 Data Engineering, Network Optimization
 
 
