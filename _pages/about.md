@@ -94,8 +94,8 @@ Data Engineering, Network Optimization
 - *2020*, Zhiyuan Outstanding Student Scholarship, Shanghai Jiao Tong University
 - *2020*, Zhiyuan Honorary Bachelor's Degree, Shanghai Jiao Tong University
 - *2023*, Huatai Securities Technology Scholarship, Shanghai Jiao Tong University
-- *2019&2020&2021*, Rongchang Technology Innovation Scholarship, Shanghai Jiao Tong University
-- *2017&2018&2019*, Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University
+- *2019&amp;2020&amp;2021*, Rongchang Technology Innovation Scholarship, Shanghai Jiao Tong University
+- *2017&amp;2018&amp;2019*, Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University
 - *2020*, First Prize in Mathematical Contest in Modeling (MCM), American Mathematical Contest in Modeling (Top 7%)
 - *2018*, First Prize in National Mathematical Contest in Modeling (Shanghai Region, Undergraduate Group) (Top 10%)
 
