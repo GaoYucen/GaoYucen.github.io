@@ -59,12 +59,12 @@ Data Engineering, Network Optimization
 1. [CCF-B] Hao Zhou, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, Real-Time Route Planning Online Order Dispatch for Bus-Booking Platforms, International Conference on Database Systems for Advanced Applications (DASFAA), 2019.
 <!--C以下一作3-->
 1. [CCF-C] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing, APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), 2022. (Best Paper Award)
-1. [IMCOM] **Yucen Gao**, Yunlong Cheng, Chan Tin Ping, Xiaofeng Gao, Guihai Chen, RL with Balanced Reward and Masking Mechanism for Multi-NUMA Virtual Machine Scheduling, IEEE International Conference on Ubiquitous Information Management and Communication (IMCOM), 2025.
-1. [AIM] **Yucen Gao**, Liang Gong, Chengliang Liu, Yixiang Huang, Xinyang Li, Rhino: An Open-source Embedded Motherboard Design Enabling Complex Behavior of Intelligent Robots, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
+1. **Yucen Gao**, Yunlong Cheng, Chan Tin Ping, Xiaofeng Gao, Guihai Chen, RL with Balanced Reward and Masking Mechanism for Multi-NUMA Virtual Machine Scheduling, IEEE International Conference on Ubiquitous Information Management and Communication (IMCOM), 2025.
+1. **Yucen Gao**, Liang Gong, Chengliang Liu, Yixiang Huang, Xinyang Li, Rhino: An Open-source Embedded Motherboard Design Enabling Complex Behavior of Intelligent Robots, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 <!--C以下合作3-->
-1. [COCOA] Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, Graph Clustering through Users' Properties and Social Influence, International Conference on Combinatorial Optimization and Applications (COCOA), 2023.
-1. [Science] Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
-1. [Science] Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
+1. Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, Graph Clustering through Users' Properties and Social Influence, International Conference on Combinatorial Optimization and Applications (COCOA), 2023.
+1. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
+1. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
 # 🧰 Projects
 - National Key R&D Program, Research on Quality Control and Traceability Technology of Manufacturing Process Based on Online Monitoring Data, 2024.12-2027.11, Key Member
