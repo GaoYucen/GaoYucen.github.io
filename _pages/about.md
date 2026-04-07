@@ -17,20 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yucen Gao is currently an associate professor in Software College of Northeastern University, China. He received the PhD degree in computer science from the Shanghai Jiao Tong University, China, in 2025. He has published more than 20 papers in high-ranked international conferences and journals including SIGKDD, ICDE, SIGIR, TMC, etc.
+I am currently an Associate Professor in the School of Software at Northeastern University, China. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University in 2025. My research primarily focuses on Data Engineering and Network Optimization and has led to over 20 publications in top-tier venues, including SIGKDD, ICDE, SIGIR, and TMC.
 
-# 📖 Educations
-- *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
-- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+# 🔥 News
 
+- [2026.04] One paper on cross-domain recommendation was accepted by **SIGIR 2026**.
+- [2025.12] One paper regarding multivariate time series forecasting was accepted by **AAAI 2026**.
+- [Ongoing] Serving as the **Workflow Chair** for **IEEE ICDM 2026** in Shenyang.
 
 # 🎓 Research Interests
 Data Engineering, Network Optimization
-
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -97,6 +93,10 @@ Data Engineering, Network Optimization
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 📖 Educations
+- *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
+- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+
+# 💻 Professional Experience
 - *2022.08 - 2024.08*, DiDi Chuxing, Beijing, China.
 - *2020.09 - 2022.07*, China COSCO Shipping, Shanghai, China.
