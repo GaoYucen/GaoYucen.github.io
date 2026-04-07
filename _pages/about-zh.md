@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,21 +15,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p align="right">
-  [ <strong>English</strong> | <a href="/zh/">简体中文</a> ]
+  [ <a href="/">English</a> | <strong>简体中文</strong> ]
 </p>
 
-I am currently an Associate Professor in the School of Software at Northeastern University, China. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University in 2025. My research primarily focuses on Data Engineering and Network Optimization and has led to over 20 publications in top-tier venues, including SIGKDD, ICDE, SIGIR, and TMC.
+现任东北大学软件学院副教授。于2025年在上海交通大学获得计算机科学博士学位。我的研究主要集中在数据工程和网络优化领域，在SIGKDD、ICDE、SIGIR和TMC等顶级会议及期刊上发表了20余篇论文。
 
-# 🔥 News
+# 🔥 新闻
 
-- [2026.04] One paper on cross-domain recommendation was accepted by **SIGIR 2026**.
-- [2025.12] One paper regarding multivariate time series forecasting was accepted by **AAAI 2026**.
-- [Ongoing] Serving as the **Workflow Chair** for **IEEE ICDM 2026** in Shenyang.
+- [2026.04] 一篇关于跨领域推荐的论文被 **SIGIR 2026** 接收。
+- [2025.12] 一篇关于多元时间序列预测的论文被 **AAAI 2026** 接收。
+- [进行中] 担任在沈阳举办的 **IEEE ICDM 2026** 的**Workflow Chair**。
 
-# 🎓 Research Interests
-Data Engineering, Network Optimization
+# 🎓 研究方向
+数据工程，网络优化
 
-# 📝 Publications 
+# 📝 发表论文 
 
 <!--A一作5-->
 1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
@@ -59,7 +56,7 @@ Data Engineering, Network Optimization
 1. [CCF-B] Zifeng Liu, Dejun Kong, **Yucen Gao**, Haipeng Dai, Xiaofeng Gao, Tian He, An Approximation for Routing Planning, Mobile Charging, and Energy Sharing for Sensing Devices, IEEE International Conference on Web Services (ICWS), 2023.
 1. [CCF-B] Hao Zhou, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, Real-Time Route Planning Online Order Dispatch for Bus-Booking Platforms, International Conference on Database Systems for Advanced Applications (DASFAA), 2019.
 <!--C以下一作3-->
-1. [CCF-C] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing, APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), 2022. (Best Paper Award)
+1. [CCF-C] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing, APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), 2022. (最佳论文奖)
 1. **Yucen Gao**, Yunlong Cheng, Chan Tin Ping, Xiaofeng Gao, Guihai Chen, RL with Balanced Reward and Masking Mechanism for Multi-NUMA Virtual Machine Scheduling, IEEE International Conference on Ubiquitous Information Management and Communication (IMCOM), 2025.
 1. **Yucen Gao**, Liang Gong, Chengliang Liu, Yixiang Huang, Xinyang Li, Rhino: An Open-source Embedded Motherboard Design Enabling Complex Behavior of Intelligent Robots, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 <!--C以下合作3-->
@@ -67,40 +64,36 @@ Data Engineering, Network Optimization
 1. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
 1. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
-# 🧰 Projects
-- National Key R&D Program, Research on Quality Control and Traceability Technology of Manufacturing Process Based on Online Monitoring Data, 2024.12-2027.11, Key Member
-- National Key R&D Program, Theory and Methods of Manufacturing Big Data Value, 2020.11-2023.10, Key Member
-- NSFC Joint Key Project, Research on Key Technologies of Collaborative Perception and Data Management for Intelligent Workshop in Aircraft Manufacturing, 2024.01-2027.12, Key Member
-- NSFC General Project, Research on Key Algorithms for Collaborative Optimization in Mobile Crowd Sensing, 2023.01-2026.12, Key Member
-- CCF-DiDi Gaia Scholar Research Fund, Exploration of Localization Optimization in Complex Occlusion Scenarios Based on Machine Learning Algorithms, 2024.08-2025.07, Student Leader
-- CCF-DiDi Gaia Scholar Research Fund, Research on Supply and Demand Forecasting in Ride-Hailing Business Scenarios, 2023.08-2024.07, Student Leader
-- CCF-DiDi Gaia Scholar Research Fund, Research on Multi-Waypoint Path Planning Problem, 2022.08-2023.07, Student Leader
-- COSCO Shipping Container Slot Intelligent Pricing Project, 2020.07-2023.06, Student Leader
+# 🧰 科研项目
+- 国家重点研发计划，基于在线监测数据的制造过程质量控制与溯源技术，2024.12-2027.11，核心骨干
+- 国家重点研发计划，制造大数据价值理论与方法，2020.11-2023.10，核心骨干
+- 国家自然科学基金联合重点项目，面向飞机制造智能车间的协同感知与数据管理关键技术研究，2024.01-2027.12，核心骨干
+- 国家自然科学基金面上项目，移动群智感知中的协作优化关键算法研究，2023.01-2026.12，核心骨干
+- CCF-滴滴盖亚学者科研基金，基于机器学习算法的复杂遮挡场景定位优化探索，2024.08-2025.07，学生负责人
+- CCF-滴滴盖亚学者科研基金，网约车业务场景下供需预测研究，2023.08-2024.07，学生负责人
+- CCF-滴滴盖亚学者科研基金，多途经点路径规划问题研究，2022.08-2023.07，学生负责人
+- 中远海运集装箱舱位智能定价项目，2020.07-2023.06，学生负责人
 
-# 🛎 Academic Services
-- Executive Committee Member, Technical Committee on Distributed Computing and Systems of CCF
-- Reviewer for ICDE, NeurIPS, WWW, ICML, etc.
+# 🛎 学术服务
+- 中国计算机学会（CCF）分布式计算与系统专委会执行委员
+- ICDM 2026 Workflow Chair
+- ICDE, NeurIPS, WWW, ICML 等会议审稿人
 
-# 🎖 Honors and Awards
-- *2024*, National Scholarship, China
-- *2020*, Outstanding Graduate, Shanghai
-- *2025*, Outstanding Doctoral Graduate, Shanghai Jiao Tong University
-- *2020*, Zhiyuan Outstanding Student Scholarship, Shanghai Jiao Tong University
-- *2020*, Zhiyuan Honorary Bachelor's Degree, Shanghai Jiao Tong University
-- *2023*, Huatai Securities Technology Scholarship, Shanghai Jiao Tong University
-- *2019&amp;2020&amp;2021*, Rongchang Technology Innovation Scholarship, Shanghai Jiao Tong University
-- *2017&amp;2018&amp;2019*, Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University
-- *2020*, First Prize in Mathematical Contest in Modeling (MCM), American Mathematical Contest in Modeling (Top 7%)
-- *2018*, First Prize in National Mathematical Contest in Modeling (Shanghai Region, Undergraduate Group) (Top 10%)
+# 🎖 荣誉奖项
+- *2024*, 博士研究生国家奖学金
+- *2020*, 上海市优秀毕业生
+- *2025*, 上海交通大学优秀博士毕业生
+- *2020*, 上海交通大学致远荣誉学士学位 / 致远杰出学生奖学金
+- *2023*, 华泰证券科技奖学金
+- *2019&amp;2020&amp;2021*, 荣昶科技创新奖学金
+- *2017&amp;2018&amp;2019*, 致远荣誉奖学金
+- *2020*, 美国大学生数学建模竞赛 (MCM) 一等奖 (Top 7%)
+- *2018*, 全国大学生数学建模竞赛 (上海赛区) 一等奖 (Top 10%)
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 📖 教育经历
+- *2020.09 - 2025.09*, 博士, 计算机科学与工程系, 上海交通大学.
+- *2016.09 - 2020.06*, 本科, 计算机科学与工程系, 上海交通大学. 
 
-# 📖 Educations
-- *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
-- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-
-# 💻 Professional Experience
-- *2022.08 - 2024.08*, DiDi Chuxing, Beijing, China.
-- *2020.09 - 2022.07*, China COSCO Shipping, Shanghai, China.
+# 💻 实习经历
+- *2022.08 - 2024.08*, 滴滴出行, 北京, 中国.
+- *2020.09 - 2022.07*, 中远海运, 上海, 中国.
