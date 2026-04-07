@@ -2,3 +2,10 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- Add target="_blank" to external links -->
+<script>
+  $(document).ready(function() {
+    $('a[href^="http"]').attr('target', '_blank');
+  });
+</script>

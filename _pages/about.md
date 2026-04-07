@@ -25,16 +25,19 @@ I am currently an Associate Professor in the School of Software at Northeastern 
   <p><strong>📢 Recruitment:</strong> I am actively looking for 2 highly motivated Master's students in Software Engineering for the Fall of 2026. If you are interested in my research, please feel free to send your CV to my email at <a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>.</p>
 </blockquote>
 
-# 🔥 News {: #news }
+<span class='anchor' id='news'></span>
+# 🔥 News
 
 - [2026.04] One paper on cross-domain recommendation was accepted by **SIGIR 2026**.
 - [2025.12] One paper regarding multivariate time series forecasting was accepted by **AAAI 2026**.
 - [Ongoing] Serving as the **Workflow Chair** for **IEEE ICDM 2026** in Shenyang.
 
-# 🎓 Research Interests {: #research-interests }
+<span class='anchor' id='research-interests'></span>
+# 🎓 Research Interests
 Data Engineering, Network Optimization
 
-# 📝 Publications {: #publications }
+<span class='anchor' id='publications'></span>
+# 📝 Publications
 
 <!--A一作5-->
 1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
@@ -69,7 +72,8 @@ Data Engineering, Network Optimization
 1. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
 1. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
-# 🧰 Projects {: #projects }
+<span class='anchor' id='projects'></span>
+# 🧰 Projects
 - National Key R&D Program, Research on Quality Control and Traceability Technology of Manufacturing Process Based on Online Monitoring Data, 2024.12-2027.11, Key Member
 - National Key R&D Program, Theory and Methods of Manufacturing Big Data Value, 2020.11-2023.10, Key Member
 - NSFC Joint Key Project, Research on Key Technologies of Collaborative Perception and Data Management for Intelligent Workshop in Aircraft Manufacturing, 2024.01-2027.12, Key Member
@@ -79,11 +83,13 @@ Data Engineering, Network Optimization
 - CCF-DiDi Gaia Scholar Research Fund, Research on Multi-Waypoint Path Planning Problem, 2022.08-2023.07, Student Leader
 - COSCO Shipping Container Slot Intelligent Pricing Project, 2020.07-2023.06, Student Leader
 
-# 🛎 Academic Services {: #academic-services }
+<span class='anchor' id='academic-services'></span>
+# 🛎 Academic Services
 - Executive Committee Member, Technical Committee on Distributed Computing and Systems of CCF
 - Reviewer for ICDE, NeurIPS, WWW, ICML, etc.
 
-# 🎖 Honors and Awards {: #honors-and-awards }
+<span class='anchor' id='honors-and-awards'></span>
+# 🎖 Honors and Awards
 - *2024*, National Scholarship, China
 - *2020*, Outstanding Graduate, Shanghai
 - *2025*, Outstanding Doctoral Graduate, Shanghai Jiao Tong University
@@ -99,10 +105,12 @@ Data Engineering, Network Optimization
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 📖 Educations {: #educations }
+<span class='anchor' id='educations'></span>
+# 📖 Educations
 - *2020.09 - 2025.09*, Doctoral Student, School of Computer Science, Shanghai Jiao Tong University.
 - *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 
-# 💻 Professional Experience {: #professional-experience }
+<span class='anchor' id='professional-experience'></span>
+# 💻 Professional Experience
 - *2022.08 - 2024.08*, DiDi Chuxing, Beijing, China.
 - *2020.09 - 2022.07*, China COSCO Shipping, Shanghai, China.

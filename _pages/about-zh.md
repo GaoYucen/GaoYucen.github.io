@@ -28,16 +28,19 @@ redirect_from:
   <p><strong>📢 招生信息：</strong>目前正在招收两名2026级软件工程硕士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：<a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>。</p>
 </blockquote>
 
-# 🔥 新闻 {: #news }
+<span class='anchor' id='news'></span>
+# 🔥 新闻
 
 - [2026.04] 一篇关于跨领域推荐的论文被 **SIGIR 2026** 接收。
 - [2025.12] 一篇关于多元时间序列预测的论文被 **AAAI 2026** 接收。
 - [进行中] 担任在沈阳举办的 **IEEE ICDM 2026** 的**Workflow Chair**。
 
-# 🎓 研究方向 {: #research-interests }
+<span class='anchor' id='research-interests'></span>
+# 🎓 研究方向
 数据工程，网络优化
 
-# 📝 发表论文 {: #publications }
+<span class='anchor' id='publications'></span>
+# 📝 发表论文
 
 <!--A一作5-->
 1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
@@ -72,7 +75,8 @@ redirect_from:
 1. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
 1. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
-# 🧰 科研项目 {: #projects }
+<span class='anchor' id='projects'></span>
+# 🧰 科研项目
 - 国家重点研发计划，基于在线监测数据的制造过程质量控制与溯源技术，2024.12-2027.11，核心骨干
 - 国家重点研发计划，制造大数据价值理论与方法，2020.11-2023.10，核心骨干
 - 国家自然科学基金联合重点项目，面向飞机制造智能车间的协同感知与数据管理关键技术研究，2024.01-2027.12，核心骨干
@@ -82,12 +86,14 @@ redirect_from:
 - CCF-滴滴盖亚学者科研基金，多途经点路径规划问题研究，2022.08-2023.07，学生负责人
 - 中远海运集装箱舱位智能定价项目，2020.07-2023.06，学生负责人
 
-# 🛎 学术服务 {: #academic-services }
+<span class='anchor' id='academic-services'></span>
+# 🛎 学术服务
 - 中国计算机学会（CCF）分布式计算与系统专委会执行委员
 - ICDM 2026 Workflow Chair
 - ICDE, NeurIPS, WWW, ICML 等会议审稿人
 
-# 🎖 荣誉奖项 {: #honors-and-awards }
+<span class='anchor' id='honors-and-awards'></span>
+# 🎖 荣誉奖项
 - *2024*, 博士研究生国家奖学金
 - *2020*, 上海市优秀毕业生
 - *2025*, 上海交通大学优秀博士毕业生
@@ -98,10 +104,12 @@ redirect_from:
 - *2020*, 美国大学生数学建模竞赛 (MCM) 一等奖 (Top 7%)
 - *2018*, 全国大学生数学建模竞赛 (上海赛区) 一等奖 (Top 10%)
 
-# 📖 教育经历 {: #educations }
+<span class='anchor' id='educations'></span>
+# 📖 教育经历
 - *2020.09 - 2025.09*, 博士, 计算机科学与工程系, 上海交通大学.
 - *2016.09 - 2020.06*, 本科, 计算机科学与工程系, 上海交通大学. 
 
-# 💻 实习经历 {: #professional-experience }
+<span class='anchor' id='professional-experience'></span>
+# 💻 实习经历
 - *2022.08 - 2024.08*, 滴滴出行, 北京, 中国.
 - *2020.09 - 2022.07*, 中远海运, 上海, 中国.
