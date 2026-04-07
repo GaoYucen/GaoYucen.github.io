@@ -1,8 +1,11 @@
 ---
-permalink: /zh/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -15,10 +18,15 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 
 <p align="right">
-  [ <a href="/">English</a> | <strong>简体中文</strong> ]
+  [ <a href="/en/">English</a> | <strong>简体中文</strong> ]
 </p>
 
 现任东北大学软件学院副教授。于2025年在上海交通大学获得计算机科学博士学位。我的研究主要集中在数据工程和网络优化领域，在SIGKDD、ICDE、SIGIR和TMC等顶级会议及期刊上发表了20余篇论文。
+
+<br>
+<blockquote>
+  <p><strong>📢 招生信息：</strong>目前正在招收两名2026级软件工程硕士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：<a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>。</p>
+</blockquote>
 
 # 🔥 新闻
 
@@ -37,7 +45,7 @@ author_profile: true
 1. [CCF-A] **Yucen Gao**, Wei Liu, JianXiong Guo, Xiaofeng Gao, Guihai Chen, A Dual-Embedding Based DQN for Worker Recruitment in Spatial Crowdsourcing with Social Network, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
 1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network, The Web Conference (WWW), 2024.
 1. [CCF-A] **Yucen Gao**, Xikai Wei, Xi Jing, Yangguang Shi, Xiaofeng Gao, Guihai Chen, Online Shipping Container Pricing Strategy Achieving Vanishing Regret with Limited Inventory, IEEE International Conference on Data Engineering (ICDE), 2023.
-<!--A合作2-->
+<!--A合作3-->
 1. [CCF-A] Bokai Lin, Naijun Gao, **Yucen Gao**, Heng Chang, Cheng Hu, Zhinan Zhang, Xiaofeng Gao, Cross-Domain Interest Representation Learning for Scenario- and Task-Aware Recommendation, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026.
 1. [CCF-A] Jiaqi Xue, Hongji Dong, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, ProCAST: A Projection Framework for Coupled Aggregation Constrained Multivariate Time Series Forecasting, AAAI Conference on Artificial Intelligence (AAAI), 2026.
 1. [CCF-A] Xiaofeng Gao, Akbar Majidi, **Yucen Gao**, Guanhao Wu, Nazila Jahanbakhsh, Linghe Kong, Guihai Chen, Nous: Drop-Freeness and Duplicate-Freeness for Consistent Updating in SDN Multicast Routing, IEEE/ACM Transactions on Networking (TON), 2024.

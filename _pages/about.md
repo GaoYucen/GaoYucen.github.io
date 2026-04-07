@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,10 +15,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p align="right">
-  [ <strong>English</strong> | <a href="/zh/">简体中文</a> ]
+  [ <strong>English</strong> | <a href="/">简体中文</a> ]
 </p>
 
 I am currently an Associate Professor in the School of Software at Northeastern University, China. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University in 2025. My research primarily focuses on Data Engineering and Network Optimization and has led to over 20 publications in top-tier venues, including SIGKDD, ICDE, SIGIR, and TMC.
+
+<br>
+<blockquote>
+  <p><strong>📢 Recruitment:</strong> I am actively looking for 2 highly motivated Master's students in Software Engineering for the Fall of 2026. If you are interested in my research, please feel free to send your CV to my email at <a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>.</p>
+</blockquote>
 
 # 🔥 News
 
@@ -40,7 +42,7 @@ Data Engineering, Network Optimization
 1. [CCF-A] **Yucen Gao**, Wei Liu, JianXiong Guo, Xiaofeng Gao, Guihai Chen, A Dual-Embedding Based DQN for Worker Recruitment in Spatial Crowdsourcing with Social Network, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
 1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network, The Web Conference (WWW), 2024.
 1. [CCF-A] **Yucen Gao**, Xikai Wei, Xi Jing, Yangguang Shi, Xiaofeng Gao, Guihai Chen, Online Shipping Container Pricing Strategy Achieving Vanishing Regret with Limited Inventory, IEEE International Conference on Data Engineering (ICDE), 2023.
-<!--A合作2-->
+<!--A合作3-->
 1. [CCF-A] Bokai Lin, Naijun Gao, **Yucen Gao**, Heng Chang, Cheng Hu, Zhinan Zhang, Xiaofeng Gao, Cross-Domain Interest Representation Learning for Scenario- and Task-Aware Recommendation, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026.
 1. [CCF-A] Jiaqi Xue, Hongji Dong, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, ProCAST: A Projection Framework for Coupled Aggregation Constrained Multivariate Time Series Forecasting, AAAI Conference on Artificial Intelligence (AAAI), 2026.
 1. [CCF-A] Xiaofeng Gao, Akbar Majidi, **Yucen Gao**, Guanhao Wu, Nazila Jahanbakhsh, Linghe Kong, Guihai Chen, Nous: Drop-Freeness and Duplicate-Freeness for Consistent Updating in SDN Multicast Routing, IEEE/ACM Transactions on Networking (TON), 2024.
