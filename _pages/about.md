@@ -28,8 +28,8 @@ I am currently an Associate Professor in the School of Software at Northeastern 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- [2026.05] One paper on worker recruitment in spatial crowdsourcing with social networks was accepted by **ICML 2026**.
-- [2026.05] One paper on order dispatching in smart transportation was accepted by **IJCAI 2026** (Student First Author).
+- [2026.05] One paper on worker recruitment in spatial crowdsourcing with social networks was accepted by **ICML 2026** (First Author).
+- [2026.05] One paper on order dispatching in smart transportation was accepted by **IJCAI 2026** (Student First Author, Corresponding Author).
 - [2026.04] One paper on cross-domain recommendation was accepted by **SIGIR 2026**.
 - [2025.12] One paper regarding multivariate time series forecasting was accepted by **AAAI 2026**.
 - [Ongoing] Serving as the **Workflow Chair** for **IEEE ICDM 2026** in Shenyang.
