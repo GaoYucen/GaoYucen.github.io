@@ -25,12 +25,15 @@ redirect_from:
 
 <br>
 <blockquote>
-  <p><strong>📢 招生信息：</strong>目前正在招收两名2026级软件工程硕士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：<a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>。</p>
+  <p><strong>📢 招生信息：</strong>目前正在招收软件工程专业两名2026级硕士研究生，三名2027级硕士研究生，一名2027级博士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：<a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>。</p>
 </blockquote>
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻
 
+- [2026.08] 一篇关于利用大模型进行养老金精算的论文被 **ICDM 2026** 接收（通讯作者）。
+- [2026.08] 一篇关于利用大模型进行路径规划的论文被 **WISE 2026** 接收（指导学生一作）。
+- [进行中] 担任 **DASFAA 2027** 的**Web Chair**。
 - [2026.05] 一篇关于结合社交网络的时空众包工人招募的论文被 **ICML 2026** 接收（一作）。
 - [2026.05] 一篇关于智慧交通订单分配的论文被 **IJCAI 2026** 接收（学生一作，通讯作者）。
 - [2026.04] 一篇关于跨领域推荐的论文被 **SIGIR 2026** 接收。
@@ -46,41 +49,44 @@ redirect_from:
 
 <!--A一作6-->
 1. [CCF-A] **Yucen Gao**, Zhemeng Yu, Zhuoran Li, Jianxiong Guo, Xiaofeng Gao, GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation, International Conference on Machine Learning (ICML), 2026.
-1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
-1. [CCF-A] **Yucen Gao**, Zhehao Zhu, Mingqian Ma, Fei Gao, Hui Gao, Yangguang Shi, Xiaofeng Gao, Online Preference Weight Estimation Algorithm with Vanishing Regret for Car-Hailing in Road Network, ACM Knowledge Discovery and Data Mining (KDD), 2024.
-1. [CCF-A] **Yucen Gao**, Wei Liu, JianXiong Guo, Xiaofeng Gao, Guihai Chen, A Dual-Embedding Based DQN for Worker Recruitment in Spatial Crowdsourcing with Social Network, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
-1. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network, The Web Conference (WWW), 2024.
-1. [CCF-A] **Yucen Gao**, Xikai Wei, Xi Jing, Yangguang Shi, Xiaofeng Gao, Guihai Chen, Online Shipping Container Pricing Strategy Achieving Vanishing Regret with Limited Inventory, IEEE International Conference on Data Engineering (ICDE), 2023.
+2. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
+3. [CCF-A] **Yucen Gao**, Zhehao Zhu, Mingqian Ma, Fei Gao, Hui Gao, Yangguang Shi, Xiaofeng Gao, Online Preference Weight Estimation Algorithm with Vanishing Regret for Car-Hailing in Road Network, ACM Knowledge Discovery and Data Mining (KDD), 2024.
+4. [CCF-A] **Yucen Gao**, Wei Liu, JianXiong Guo, Xiaofeng Gao, Guihai Chen, A Dual-Embedding Based DQN for Worker Recruitment in Spatial Crowdsourcing with Social Network, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
+5. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network, The Web Conference (WWW), 2024.
+6. [CCF-A] **Yucen Gao**, Xikai Wei, Xi Jing, Yangguang Shi, Xiaofeng Gao, Guihai Chen, Online Shipping Container Pricing Strategy Achieving Vanishing Regret with Limited Inventory, IEEE International Conference on Data Engineering (ICDE), 2023.
 <!--A合作3-->
-1. [CCF-A] Bokai Lin, Naijun Gao, **Yucen Gao**, Heng Chang, Cheng Hu, Zhinan Zhang, Xiaofeng Gao, Cross-Domain Interest Representation Learning for Scenario- and Task-Aware Recommendation, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026.
-1. [CCF-A] Jiaqi Xue, Hongji Dong, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, ProCAST: A Projection Framework for Coupled Aggregation Constrained Multivariate Time Series Forecasting, AAAI Conference on Artificial Intelligence (AAAI), 2026.
-1. [CCF-A] Xiaofeng Gao, Akbar Majidi, **Yucen Gao**, Guanhao Wu, Nazila Jahanbakhsh, Linghe Kong, Guihai Chen, Nous: Drop-Freeness and Duplicate-Freeness for Consistent Updating in SDN Multicast Routing, IEEE/ACM Transactions on Networking (TON), 2024.
+7. [CCF-A] Bokai Lin, Naijun Gao, **Yucen Gao**, Heng Chang, Cheng Hu, Zhinan Zhang, Xiaofeng Gao, Cross-Domain Interest Representation Learning for Scenario- and Task-Aware Recommendation, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026.
+8. [CCF-A] Jiaqi Xue, Hongji Dong, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, ProCAST: A Projection Framework for Coupled Aggregation Constrained Multivariate Time Series Forecasting, AAAI Conference on Artificial Intelligence (AAAI), 2026.
+9. [CCF-A] Xiaofeng Gao, Akbar Majidi, **Yucen Gao**, Guanhao Wu, Nazila Jahanbakhsh, Linghe Kong, Guihai Chen, Nous: Drop-Freeness and Duplicate-Freeness for Consistent Updating in SDN Multicast Routing, IEEE/ACM Transactions on Networking (TON), 2024.
 <!--B一作及通讯7-->
-1. [CCF-B] Pengfei Du, **Yucen Gao**\*, Xiaochun Yang, Bin Wang, PID-Controlled Constrained RL for Hub-based Joint Pricing, Dispatching, and Routing with Service Guarantees, International Joint Conference on Artificial Intelligence (IJCAI), 2026. (通讯作者)
-1. [CCF-B] **Yucen Gao**, Zhuoran Li, Jingyu He, Jun Fang, Hui Gao, Xiaofeng Gao, Guihai Chen, Algorithms for Shortest Path Tour Problem, Theoretical Computer Science (TCS), 2025.
-1. [CCF-B] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing. World Wide Web Journal (WWWJ), 2025.
-1. [CCF-B] **Yucen Gao**, Xikai Wei, Hui Gao, Qun Li, Xiaofeng Gao, Guihai Chen, Spherical Projection Based Clustering Algorithm for Cooperative Sweep Coverage in Crowdsourcing, IEEE International Conference on Web Services (ICWS), 2024.
-1. [CCF-B] **Yucen Gao**, Mingqian Ma, Jiale Zhang, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Algorithms for Shortest Path Tour Problem in Large-Scale Road Network, International Computing and Combinatorics Conference (COCOON), 2023.
-1. [CCF-B] **Yucen Gao**, Yulong Song, Xikai Wei, Xiaofeng Gao, Guihai Chen, SACA: An End-to-End Method for Dispatching, Routing, and Pricing of Online Bus-Booking, International Conference on Database Systems for Advanced Applications (DASFAA), 2023.
-1. [CCF-B] **Yucen Gao**, Yuanning Gao, Yuhao Li, Xiaofeng Gao, Xiang Li, Guihai Chen, An Attention-Based Bi-GRU for Route Planning and Order Dispatch of Bus-Booking Platform, International Conference on Database Systems for Advanced Applications (DASFAA), 2021.
+10. [CCF-B] Haitao Zhou, Zhenfeng Yang, Jinpeng Deng, Xinyu Zhuang, Ming Jiang, **Yucen Gao**\*, A Deployed LLM-Based System for Urban Employee Pension Fund Actuarial Analysis, IEEE International Conference on Data Mining (ICDM), 2026. (通讯作者)
+11. [CCF-B] Pengfei Du, **Yucen Gao**\*, Xiaochun Yang, Bin Wang, PID-Controlled Constrained RL for Hub-based Joint Pricing, Dispatching, and Routing with Service Guarantees, International Joint Conference on Artificial Intelligence (IJCAI), 2026. (通讯作者)
+12. [CCF-B] **Yucen Gao**, Zhuoran Li, Jingyu He, Jun Fang, Hui Gao, Xiaofeng Gao, Guihai Chen, Algorithms for Shortest Path Tour Problem, Theoretical Computer Science (TCS), 2025.
+13. [CCF-B] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing. World Wide Web Journal (WWWJ), 2025.
+14. [CCF-B] **Yucen Gao**, Xikai Wei, Hui Gao, Qun Li, Xiaofeng Gao, Guihai Chen, Spherical Projection Based Clustering Algorithm for Cooperative Sweep Coverage in Crowdsourcing, IEEE International Conference on Web Services (ICWS), 2024.
+15. [CCF-B] **Yucen Gao**, Mingqian Ma, Jiale Zhang, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Algorithms for Shortest Path Tour Problem in Large-Scale Road Network, International Computing and Combinatorics Conference (COCOON), 2023.
+16. [CCF-B] **Yucen Gao**, Yulong Song, Xikai Wei, Xiaofeng Gao, Guihai Chen, SACA: An End-to-End Method for Dispatching, Routing, and Pricing of Online Bus-Booking, International Conference on Database Systems for Advanced Applications (DASFAA), 2023.
+17. [CCF-B] **Yucen Gao**, Yuanning Gao, Yuhao Li, Xiaofeng Gao, Xiang Li, Guihai Chen, An Attention-Based Bi-GRU for Route Planning and Order Dispatch of Bus-Booking Platform, International Conference on Database Systems for Advanced Applications (DASFAA), 2021.
 <!--B合作6-->
-1. [CCF-B] Zhuoran Li, **Yucen Gao**, Yu Yin, Xinle Li, Hui Gao, Xiaofeng Gao, Guihai Chen, DRNCS: Dual-Level Route Generation Model Based on Node Contraction and Shortcuts, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025.
-1. [CCF-B] Zhemeng Yu, Yang Luo, **Yucen Gao**, Yinbo Sun, Xiaofeng Gao, Lintao Ma, Guihai Chen, CausalScaler: A Causality-Driven Autoscaling Framework for the Cloud, International Conference on Database Systems for Advanced Applications (DASFAA), 2025.
-1. [CCF-B] Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, A New Similarity in Clustering through Users' Interest and Social Relationship, Theoretical Computer Science (TCS), 2024.
-1. [CCF-B] Kexin Xu, Zhemeng Yu, **Yucen Gao**, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, MetaSTC: A Backbone Agnostic Spatio-Temporal Framework for Traffic Forecasting, International Conference on Data Mining (ICDM), 2024.
-1. [CCF-B] Zifeng Liu, Dejun Kong, **Yucen Gao**, Haipeng Dai, Xiaofeng Gao, Tian He, An Approximation for Routing Planning, Mobile Charging, and Energy Sharing for Sensing Devices, IEEE International Conference on Web Services (ICWS), 2023.
-1. [CCF-B] Hao Zhou, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, Real-Time Route Planning Online Order Dispatch for Bus-Booking Platforms, International Conference on Database Systems for Advanced Applications (DASFAA), 2019.
+18. [CCF-B] Steeve Cuthbert Marcelyn, Jiaqi Xue, Yikang Fu, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, LLMDrive: LLM-Guided Path Recommendation with Retrieved Topological Corridors, Web Information Systems Engineering Conference (WISE), 2026.
+19. [CCF-B] Zhuoran Li, **Yucen Gao**, Yu Yin, Xinle Li, Hui Gao, Xiaofeng Gao, Guihai Chen, DRNCS: Dual-Level Route Generation Model Based on Node Contraction and Shortcuts, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025.
+20. [CCF-B] Zhemeng Yu, Yang Luo, **Yucen Gao**, Yinbo Sun, Xiaofeng Gao, Lintao Ma, Guihai Chen, CausalScaler: A Causality-Driven Autoscaling Framework for the Cloud, International Conference on Database Systems for Advanced Applications (DASFAA), 2025.
+21. [CCF-B] Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, A New Similarity in Clustering through Users' Interest and Social Relationship, Theoretical Computer Science (TCS), 2024.
+22. [CCF-B] Kexin Xu, Zhemeng Yu, **Yucen Gao**, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, MetaSTC: A Backbone Agnostic Spatio-Temporal Framework for Traffic Forecasting, International Conference on Data Mining (ICDM), 2024.
+23. [CCF-B] Zifeng Liu, Dejun Kong, **Yucen Gao**, Haipeng Dai, Xiaofeng Gao, Tian He, An Approximation for Routing Planning, Mobile Charging, and Energy Sharing for Sensing Devices, IEEE International Conference on Web Services (ICWS), 2023.
+24. [CCF-B] Hao Zhou, **Yucen Gao**, Xiaofeng Gao, Guihai Chen, Real-Time Route Planning Online Order Dispatch for Bus-Booking Platforms, International Conference on Database Systems for Advanced Applications (DASFAA), 2019.
 <!--C以下一作3-->
-1. [CCF-C] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing, APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), 2022. (最佳论文奖)
-1. **Yucen Gao**, Yunlong Cheng, Chan Tin Ping, Xiaofeng Gao, Guihai Chen, RL with Balanced Reward and Masking Mechanism for Multi-NUMA Virtual Machine Scheduling, IEEE International Conference on Ubiquitous Information Management and Communication (IMCOM), 2025.
-1. **Yucen Gao**, Liang Gong, Chengliang Liu, Yixiang Huang, Xinyang Li, Rhino: An Open-source Embedded Motherboard Design Enabling Complex Behavior of Intelligent Robots, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
+25. [CCF-C] **Yucen Gao**, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing, APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), 2022. (最佳论文奖)
+26. **Yucen Gao**, Yunlong Cheng, Chan Tin Ping, Xiaofeng Gao, Guihai Chen, RL with Balanced Reward and Masking Mechanism for Multi-NUMA Virtual Machine Scheduling, IEEE International Conference on Ubiquitous Information Management and Communication (IMCOM), 2025.
+27. **Yucen Gao**, Liang Gong, Chengliang Liu, Yixiang Huang, Xinyang Li, Rhino: An Open-source Embedded Motherboard Design Enabling Complex Behavior of Intelligent Robots, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 <!--C以下合作3-->
-1. Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, Graph Clustering through Users' Properties and Social Influence, International Conference on Combinatorial Optimization and Applications (COCOA), 2023.
-1. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
-1. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
+28. Jianxiong Guo, Zhehao Zhu, **Yucen Gao**, Xiaofeng Gao, Graph Clustering through Users' Properties and Social Influence, International Conference on Combinatorial Optimization and Applications (COCOA), 2023.
+29. Ganyu Huang, Qiaoyi Pan, Shuangying Zhao, **Yucen Gao**, Xiaofeng Gao, Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics, Journal of Shanghai Jiao Tong University (Science), 2020.
+30. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
 <span class='anchor' id='projects'></span>
 # 🧰 科研项目
+- 国家自然科学基金青年基金（C类），城市复杂风场环境下多无人机协同路径规划研究，2027.01-2029.12，主持
 - 国家重点研发计划，基于在线监测数据的制造过程质量控制与溯源技术，2024.12-2027.11，核心骨干
 - 国家重点研发计划，制造大数据价值理论与方法，2020.11-2023.10，核心骨干
 - 国家自然科学基金联合重点项目，面向飞机制造智能车间的协同感知与数据管理关键技术研究，2024.01-2027.12，核心骨干
@@ -93,6 +99,7 @@ redirect_from:
 <span class='anchor' id='academic-services'></span>
 # 🛎 学术服务
 - 中国计算机学会（CCF）分布式计算与系统专委会执行委员
+- DASFAA 2027 Web Chair
 - ICDM 2026 Workflow Chair
 - ICDE, NeurIPS, WWW, ICML 等会议审稿人
 
