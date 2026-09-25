@@ -25,7 +25,7 @@ redirect_from:
 
 <br>
 <blockquote>
-  <p><strong>📢 招生信息：</strong>目前正在招收软件工程专业两名2026级硕士研究生，三名2027级硕士研究生，一名2027级博士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：<a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>。</p>
+*目前正在招收软件工程专业三名2027级硕士研究生，一名2027级博士研究生。如果您对我的研究方向感兴趣，欢迎将个人简历发送至我的邮箱：*[*gaoyucen@neu.edu.cn*](mailto:gaoyucen@neu.edu.cn)*。*
 </blockquote>
 
 <span class='anchor' id='news'></span>
