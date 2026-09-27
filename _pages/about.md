@@ -47,7 +47,7 @@ Data Engineering, Network Optimization
 
 <!--A一作6-->
 1. [CCF-A] **Yucen Gao**, Zhemeng Yu, Zhuoran Li, Jianxiong Guo, Xiaofeng Gao, GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation, International Conference on Machine Learning (ICML), 2026. [[Code](https://github.com/GaoYucen/GKD-Recruiter)]
-2. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025.
+2. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Hui Gao, Jun Fang, Xiaofeng Gao, A Lightweight Encoder-Decoder Framework for Carpooling Route Planning, IEEE Transactions on Mobile Computing (TMC), 2025. [[Code](https://github.com/GaoYucen/Lite-GD)]
 3. [CCF-A] **Yucen Gao**, Zhehao Zhu, Mingqian Ma, Fei Gao, Hui Gao, Yangguang Shi, Xiaofeng Gao, Online Preference Weight Estimation Algorithm with Vanishing Regret for Car-Hailing in Road Network, ACM Knowledge Discovery and Data Mining (KDD), 2024. [[Code](https://github.com/GaoYucen/PWC)]
 4. [CCF-A] **Yucen Gao**, Wei Liu, JianXiong Guo, Xiaofeng Gao, Guihai Chen, A Dual-Embedding Based DQN for Worker Recruitment in Spatial Crowdsourcing with Social Network, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2024.
 5. [CCF-A] **Yucen Gao**, Li Ma, Zhemeng Yu, Songjian Zhang, Jun Fang, Xiaofeng Gao, Guihai Chen, Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network, The Web Conference (WWW), 2024.
@@ -89,6 +89,7 @@ Data Engineering, Network Optimization
 Open-source code for selected published papers:
 
 - **GKD-Recruiter** (*ICML 2026*) — Graph knowledge distillation for worker recruitment in spatial crowdsourcing. [Code](https://github.com/GaoYucen/GKD-Recruiter)
+- **Lite-GD** (*TMC 2025*) — A lightweight encoder-decoder framework for carpool route planning in road networks. [Code](https://github.com/GaoYucen/Lite-GD)
 - **PWC** (*KDD 2024*) — Online preference-weight estimation for car-hailing route planning. [Code](https://github.com/GaoYucen/PWC)
 - **BIRD** (*ICDE 2023*) — Online shipping-container pricing with limited inventory. [Code](https://github.com/GaoYucen/BIRD)
 - **SACA** (*DASFAA 2023*) — End-to-end dispatching, routing, and pricing for online bus-booking. [Code](https://github.com/GaoYucen/SACA)
