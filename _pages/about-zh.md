@@ -87,9 +87,9 @@ redirect_from:
 31. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
 <span class='anchor' id='research-software'></span>
-# 💻 研究软件与开源代码
+# 💻 开源代码
 
-部分已发表研究工作的开源实现：
+部分已发表论文的开源代码：
 
 - **GKD-Recruiter** (*ICML 2026*) — 面向时空众包工人招募的图知识蒸馏框架。 [Code](https://github.com/GaoYucen/GKD-Recruiter)
 - **PWC** (*KDD 2024*) — 面向网约车路径规划的在线偏好权重估计方法。 [Code](https://github.com/GaoYucen/PWC)

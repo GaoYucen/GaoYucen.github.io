@@ -84,9 +84,9 @@ Data Engineering, Network Optimization
 31. Sijia Li, Kun Song, Boran Yang, **Yucen Gao**, Xiaofeng Gao, Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR, Journal of Shanghai Jiao Tong University (Science), 2020.
 
 <span class='anchor' id='research-software'></span>
-# 💻 Research Software & Open Source
+# 💻 Open-Source Code
 
-Selected open-source implementations of our published research:
+Open-source code for selected published papers:
 
 - **GKD-Recruiter** (*ICML 2026*) — Graph knowledge distillation for worker recruitment in spatial crowdsourcing. [Code](https://github.com/GaoYucen/GKD-Recruiter)
 - **PWC** (*KDD 2024*) — Online preference-weight estimation for car-hailing route planning. [Code](https://github.com/GaoYucen/PWC)
