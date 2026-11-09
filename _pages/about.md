@@ -22,7 +22,7 @@ I am currently an Associate Professor in the School of Software at Northeastern 
 
 <br>
 <blockquote>
-  <p><strong>📢 Recruitment:</strong> I am recruiting two 2026 Master's students, three 2027 Master's students, and one 2027 Ph.D. student in Software Engineering. If you are interested in my research, please feel free to send your CV to my email at <a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>.</p>
+  <p><strong>📢 Recruitment:</strong> I am recruiting two 2026 Master's students and three 2027 Master's students in Software Engineering. If you are interested in my research, please feel free to send your CV to my email at <a href="mailto:gaoyucen@neu.edu.cn">gaoyucen@neu.edu.cn</a>.</p>
 </blockquote>
 
 <span class='anchor' id='news'></span>
